@@ -1,6 +1,6 @@
-https://www.cnn.com/
-https://www.cnn.com/us
-https://www.cnn.com/specials/us/crime-and-justice
-https://www.cnn.com/specials/us/energy-and-environment
-https://www.cnn.com/weather
-https://www.cnn.com/specials/space-science
+www.cnn.com/
+www.cnn.com/us
+www.cnn.com/specials/us/crime-and-justice
+www.cnn.com/specials/us/energy-and-environment
+www.cnn.com/weather
+www.cnn.com/specials/space-science
